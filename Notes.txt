@@ -1,0 +1,10 @@
+How to create free website- Malayalam video
+
+https://www.youtube.com/watch?v=FVkwMCfSEA0
+
+How to upload your website to live server - Cpanel
+https://www.youtube.com/watch?v=GaYgxW5UHQY
+
+
+fontawesome
+<script src="https://kit.fontawesome.com/e6c3d6069e.js" crossorigin="anonymous"></script>
